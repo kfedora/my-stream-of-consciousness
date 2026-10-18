@@ -1,0 +1,1 @@
+Also by using git and a remote, we can now synchronize across devices for free!
