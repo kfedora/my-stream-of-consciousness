@@ -1,0 +1,1 @@
+I guess the sync does not happen automatically in the background but only when I send a new message?
