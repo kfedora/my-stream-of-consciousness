@@ -1,0 +1,1 @@
+It is amazing if you think about it. I can commit and push to a git repository simply by typing a message and pushing send. 
