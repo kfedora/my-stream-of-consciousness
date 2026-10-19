@@ -1,0 +1,1 @@
+What would be a better way to handle this situation? Fetch periodically? Is there a better way? 
