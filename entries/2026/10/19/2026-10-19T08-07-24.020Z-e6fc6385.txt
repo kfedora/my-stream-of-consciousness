@@ -1,0 +1,6 @@
+What about shorter addresses, you might ask. Well we can test that as well. Here is https://google.com and here is a page 
+
+https://ishouldnot.github.io 
+
+See everything is fine now. 
+I hope 🙏
