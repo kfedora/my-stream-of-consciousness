@@ -1,0 +1,3 @@
+Now I did say this message should be plain text but it is worth testing. I will add a link in this message and really it should NOT be clickable. 
+https://github.com/kusl/my-stream-of-consciousness/commit/1f41b9e8fb7809a7e1948553f7f15766fc1b140a
+Well was it clickable? If it was, I think that is a defect. 
