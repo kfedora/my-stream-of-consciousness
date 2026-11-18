@@ -1,0 +1,2 @@
+The next version of Windows will be the first to ship with PowerShell 7, Microsoft confirms – PowerShell 5.1 is now deprecated
+https://www.windowscentral.com/microsoft/windows-11/the-next-version-of-windows-will-be-the-first-to-ship-with-powershell-7-microsoft-confirms-powershell-5-1-is-now-deprecated
